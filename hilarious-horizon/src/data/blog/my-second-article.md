@@ -1,8 +1,8 @@
 ---
 title: "Surviving the rat race"
 date: "2025-01-20"
-author: Maria Jose Mejia
-id: project-2
+author: "Maria Jose Mejia"
+id: article-2
 ---
 
 # Surviving the rat race
@@ -15,7 +15,7 @@ Welcome and many thanks! Thanks for helping me survive the first month. I hope t
 3. To compete or not to compete
 4. Life lessons
 
-![firstArticle](/public/ratRace.png)
+![secondArticle](/public/ratRace.png)
 
 ### Introduction
 Lorem ipsum odor amet, consectetuer adipiscing elit. Habitasse faucibus fermentum ad risus sociosqu ullamcorper eget potenti. Libero condimentum placerat accumsan neque senectus accumsan interdum. Sit proin vestibulum quisque tristique inceptos phasellus auctor id! Tincidunt finibus mus vitae auctor sem. Himenaeos pellentesque nec praesent porta nunc, dictum sollicitudin etiam. Etiam ligula felis, malesuada justo himenaeos congue.

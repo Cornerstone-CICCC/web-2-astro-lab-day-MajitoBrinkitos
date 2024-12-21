@@ -1,8 +1,8 @@
 ---
-title: My First Article 1
+title: "My First Article"
 date: "2024-12-20"
-author: Maria Jose Mejia
-id: project-1
+author: "Maria Jose Mejia"
+id: article-1
 ---
 
 # First Article Ever

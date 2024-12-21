@@ -1,8 +1,8 @@
 ---
 title: "Merry Christmas"
 date: "2025-02-20"
-author: Maria Jose Mejia
-id: project-3
+author: "Maria Jose Mejia"
+id: article-3
 ---
 
 # Merry Christmas and a Happy New Year
@@ -15,7 +15,7 @@ It's almost time to wrap this year, and with it, all the good and the bad. As th
 3. The bad and the ugly
 4. Lesson everywhere
 
-![firstArticle](/public/merryChristmas.png)
+![thirdArticle](/public/merryChristmas.png)
 
 ### Introduction
 Lorem ipsum odor amet, consectetuer adipiscing elit. Habitasse faucibus fermentum ad risus sociosqu ullamcorper eget potenti. Libero condimentum placerat accumsan neque senectus accumsan interdum. Sit proin vestibulum quisque tristique inceptos phasellus auctor id! Tincidunt finibus mus vitae auctor sem. Himenaeos pellentesque nec praesent porta nunc, dictum sollicitudin etiam. Etiam ligula felis, malesuada justo himenaeos congue.
