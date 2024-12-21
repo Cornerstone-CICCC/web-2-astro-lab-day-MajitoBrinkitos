@@ -8,3 +8,4 @@
 6. Directory data
     -blog
     -projects
+7. dark/light mode
