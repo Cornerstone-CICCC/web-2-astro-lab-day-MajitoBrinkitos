@@ -9,5 +9,4 @@ const projects = defineCollection({
     loader: glob({ pattern: "**/*.md", base: "./src/data/projects" })
   });
 
-export const collections = { blog };
-export const collections = { projects };
+export const collections = { blog, projects };
