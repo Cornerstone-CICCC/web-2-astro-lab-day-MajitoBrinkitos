@@ -1,3 +1,7 @@
+---
+import '../styles/global.css';
+---
+
 <!doctype html>
 <html lang="en">
 	<head>
@@ -5,10 +9,20 @@
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Astro Basics</title>
+		<meta name="description" />
+
+		<!--Google Fonts -->
+		<link
+		href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+		rel="stylesheet"
+	  />
+	  
+		<title>Layout</title>
 	</head>
+
 	<body>
-		<slot />
+		<h1>The Everything Blog</h1>
+		<img src="/public/indexImage.png" alt="Index Images">
 	</body>
 </html>
 
